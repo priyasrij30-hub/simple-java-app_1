@@ -14,7 +14,7 @@ spec:
  spec:
  containers:
  - name: java-app
- image: nidhireddy11/java-app:latest
+ image: pri439/java-app:latest
 ---
 apiVersion: v1
 kind: Service
